@@ -20,7 +20,7 @@ addon | version | summary
 [mail_activity_done](mail_activity_done/) | 12.0.2.0.0 | Mail Activity Done
 [mail_activity_partner](mail_activity_partner/) | 12.0.1.0.0 | Add Partner to Activities
 [mail_activity_reminder](mail_activity_reminder/) | 12.0.1.0.1 | Reminder notifications about planned activities
-[mail_activity_team](mail_activity_team/) | 12.0.1.2.1 | Add Teams to Activities
+[mail_activity_team](mail_activity_team/) | 12.0.1.2.2 | Add Teams to Activities
 [mail_attach_existing_attachment](mail_attach_existing_attachment/) | 12.0.1.0.0 | Adding attachment on the object by sending this one
 [mail_attach_existing_attachment_account](mail_attach_existing_attachment_account/) | 12.0.1.0.0 | Module to use attach existing attachment for account module
 [mail_check_mailbox_size](mail_check_mailbox_size/) | 12.0.1.0.0 | Send an email summarizing the current space used by a mailbox
@@ -29,6 +29,7 @@ addon | version | summary
 [mail_footer_notified_partner](mail_footer_notified_partner/) | 12.0.1.0.0 | This module adds the list of notified partners in the footer of notification e-mails sent by Odoo.
 [mail_full_expand](mail_full_expand/) | 12.0.1.0.0 | Expand mail in a big window
 [mail_history](mail_history/) | 12.0.1.0.0 | Module to see old messages
+[mail_improved_tracking_value](mail_improved_tracking_value/) | 12.0.1.0.0 | Improves tracking changed values for certain type of fields.Adds a user-friendly view to consult them.
 [mail_inline_css](mail_inline_css/) | 12.0.1.0.0 | Convert style tags in inline style in your mails
 [mail_notification_custom_subject](mail_notification_custom_subject/) | 12.0.1.0.0 | Apply a custom subject to mail notifications
 [mail_optional_autofollow](mail_optional_autofollow/) | 12.0.1.0.0 | Choose if you want to automatically add new recipients as followers on mail.compose.message
