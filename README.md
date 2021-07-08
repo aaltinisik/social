@@ -20,7 +20,7 @@ addon | version | summary
 [mail_activity_done](mail_activity_done/) | 12.0.2.0.0 | Mail Activity Done
 [mail_activity_partner](mail_activity_partner/) | 12.0.1.0.0 | Add Partner to Activities
 [mail_activity_reminder](mail_activity_reminder/) | 12.0.1.0.1 | Reminder notifications about planned activities
-[mail_activity_team](mail_activity_team/) | 12.0.1.2.2 | Add Teams to Activities
+[mail_activity_team](mail_activity_team/) | 12.0.1.2.3 | Add Teams to Activities
 [mail_attach_existing_attachment](mail_attach_existing_attachment/) | 12.0.1.0.0 | Adding attachment on the object by sending this one
 [mail_attach_existing_attachment_account](mail_attach_existing_attachment_account/) | 12.0.1.0.0 | Module to use attach existing attachment for account module
 [mail_check_mailbox_size](mail_check_mailbox_size/) | 12.0.1.0.0 | Send an email summarizing the current space used by a mailbox
@@ -40,6 +40,7 @@ addon | version | summary
 [mail_private](mail_private/) | 12.0.1.0.0 | Create private emails
 [mail_restrict_follower_selection](mail_restrict_follower_selection/) | 12.0.1.0.2 | Define a domain from which followers can be selected
 [mail_send_copy](mail_send_copy/) | 12.0.1.0.0 | Send to you a copy of each mail sent by Odoo
+[mail_show_follower](mail_show_follower/) | 12.0.1.0.0 | Show CC document followers in mails.
 [mail_template_substitute](mail_template_substitute/) | 12.0.1.0.1 | This module allows to create substitution rules for mail templates.
 [mail_track_diff_only](mail_track_diff_only/) | 12.0.1.0.0 | Mail track diff only
 [mail_tracking](mail_tracking/) | 12.0.2.1.8 | Email tracking system for all mails sent
